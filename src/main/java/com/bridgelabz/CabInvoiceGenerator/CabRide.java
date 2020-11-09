@@ -2,8 +2,8 @@ package com.bridgelabz.CabInvoiceGenerator;
 
 public class CabRide 
 {
-	int FARE_PER_KILOMETER;
-	int FARE_PER_MINUTE;
+	int FARE_PER_KILOMETER=10;
+	int FARE_PER_MINUTE=1;
 	float totalFare;
 	float distance;
 	float time;
